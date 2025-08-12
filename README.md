@@ -30,8 +30,7 @@ Data Scientist con formación en desarrollo de aplicaciones multiplataforma y es
 
 - 📊 [Power BI Dashboards](https://app.powerbi.com)  
 - 📘 [Kaggle Notebooks](https://www.kaggle.com/cgiustiniano1994)  
-- 🧪 [Streamlit Demos](https://streamlit.io) *(próximamente)*  
-- 📄 [Artículos en Medium](https://medium.com/@cgiustiniano1994) *(en desarrollo)*
+
 
 ---
 
